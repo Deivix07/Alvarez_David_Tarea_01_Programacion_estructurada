@@ -3,6 +3,10 @@
 class Program
     {static void Main() 
     {
+        // Alvarez_David_Ejercicio_2     3ero TSDS
+        
+        // Ejercicio 2
+
         do  // El bucle do-while mantiene el programa funcionando hasta que el usuario decida salir
         {
             Console.Clear(); // Limpiamos la pantalla
@@ -87,8 +91,8 @@ class Program
     }
 
 
-    /*  2)   Crea un programa que solicita al usuario ingresar una calificación y luego muestre un mensaje según la calificación ingresada
-    (por ejemplo: "Aprobado" si la calificación es mayor o igual a 60, "Reprobado" si es menor a 60)
+    /*  2)  Crea un programa que solicita al usuario ingresar una calificación y luego muestre un mensaje según la calificación ingresada
+            (por ejemplo: "Aprobado" si la calificación es mayor o igual a 60, "Reprobado" si es menor a 60)
     */
 
     static void Evaluar_calif()
@@ -121,7 +125,7 @@ class Program
     }
 
     /*  3)  Desarrolla un programa que pida al usuario ingrese un número y luego determine en qué rango se encuentra
-    (por ejemplo: "Menor que 10", "Entre 10 y 20", "Mayor que 20")
+            (por ejemplo: "Menor que 10", "Entre 10 y 20", "Mayor que 20")
     */
 
     static void Determinar_rango()
@@ -157,8 +161,8 @@ class Program
         }
     }
 
-    /*  4)  Desarrolla un programa que pida al usuario ingrese un número y luego determine en qué rango se encuentra
-    (por ejemplo: "Menor que 10", "Entre 10 y 20", "Mayor que 20")
+    /*  4)  Escribe un programa que solicite al usuario ingresar un número del 1 al 7 y luego muestre el día de la semana correspondiente
+            (por ejemplo: 1 para "Lunes", 2 para "Martes", etc.)
     */
     static void Mostrar_dia_semana()
     {
@@ -166,11 +170,10 @@ class Program
         {
             try
             {
-                Console.Write("Ingrese un número del 1 al 7: ");
-                int dia = int.Parse(Console.ReadLine()); // Usamos int.Parse para convertir la entrada a entero.
+                Console.Write("Ingrese un número del 1 al 7: ");    // Pedir al usuario un número
+                int dia = int.Parse(Console.ReadLine());            // Convertir la entrada del usuario a un entero
 
-                // Verificamos si el número está en el rango correcto (1 a 7)
-                if (dia >= 1 && dia <= 7)
+                if (dia >= 1 && dia <= 7)    // Verificar si el número está en el rango correcto (1 a 7)
                 {
                     // Usamos switch para mostrar el día correspondiente
                     switch (dia)
@@ -187,50 +190,64 @@ class Program
                 }
                 else
                 {
-                    // Si el número está fuera del rango, se muestra un mensaje y se vuelve a pedir
-                    Console.WriteLine("Número fuera de rango. Ingrese un número del 1 al 7.");
+                    Console.WriteLine("Número fuera de rango. Ingrese un número del 1 al 7.");  // Si el número está fuera del rango, se muestra un error y se vuelve a pedir
                 }
             }
             catch (FormatException)
             {
-                // Si ocurre un error de formato (por ejemplo, si el usuario ingresa texto en lugar de un número), mostramos un mensaje
+                // Si ocurre un error en la entrada dará error
                 Console.WriteLine("Entrada no válida. Intente nuevamente.");
             }
         }
     }
 
-
+    /*  5)  Ingresar 2 números y luego un carácter indicando la operación a realizar 
+            (+, -, *, /) y reportar el resultado de la operación utilizando la sentencia switch
+    */
     static void Calculadora()
     {
-        try
+        while (true) // Bucle hasta que se complete todo y sea válido
         {
-            Console.Write("Ingrese el primer número: ");
-            int num1 = int.Parse(Console.ReadLine()); // Usamos int.Parse para convertir la entrada a entero.
-
-            Console.Write("Ingrese el segundo número: ");
-            int num2 = int.Parse(Console.ReadLine()); // Usamos int.Parse para convertir la entrada a entero.
-
-            Console.Write("Ingrese la operación (+, -, *, /): ");
-            char operacion = Console.ReadKey().KeyChar;
-            Console.WriteLine();
-
-            switch (operacion)
+            try
             {
-                case '+': Console.WriteLine($"Resultado: {num1 + num2}"); break;
-                case '-': Console.WriteLine($"Resultado: {num1 - num2}"); break;
-                case '*': Console.WriteLine($"Resultado: {num1 * num2}"); break;
-                case '/':
-                    if (num2 != 0)
-                        Console.WriteLine($"Resultado: {num1 / num2}");
-                    else
-                        Console.WriteLine("Error: No se puede dividir entre cero.");
-                    break;
-                default: Console.WriteLine("Operación no válida."); break;
+                Console.Write("Ingrese el primer número: ");         // Solicita el primer número
+                float num1 = float.Parse(Console.ReadLine());       // Convertir a número flotante
+
+                Console.Write("Ingrese el segundo número: ");       // Solicita el segundo número
+                float num2 = float.Parse(Console.ReadLine());       // Permite números con decimales
+
+                Console.Write("Ingrese la operación (+, -, *, /): ");       // Solicita la operación al usuario
+                string operacion = Console.ReadLine();       // Guardar el operador como una cadena
+
+                // Switch para las operaciones
+                switch (operacion)
+                {
+                    case "+":
+                        Console.WriteLine($"Resultado: {num1} + {num2} = {num1 + num2}");
+                        break;
+                    case "-":
+                        Console.WriteLine($"Resultado: {num1} - {num2} = {num1 - num2}");
+                        break;
+                    case "*":
+                        Console.WriteLine($"Resultado: {num1} * {num2} = {num1 * num2}");
+                        break;
+                    case "/":
+                        if (num2 != 0) // Verifica que el divisor no sea cero
+                            Console.WriteLine($"Resultado: {num1} / {num2} = {num1 / num2}");
+                        else
+                            Console.WriteLine("No se puede dividir entre cero");  // Si no cumple la excepción muestra un mensaje
+                        break;
+                    default:
+                        Console.WriteLine("Operación no válida. Intente nuevamente.");    // Si el operador no es válido muestra error
+                        continue; // Reinicia el bucle si el operador es inválido
+                }
+
+                break; // Sale del bucle si todo se realiza correctamente
             }
-        }
-        catch (FormatException)
-        {
-            Console.WriteLine("Entrada no válida. Intente nuevamente.");
+            catch (FormatException)
+            {
+                Console.WriteLine("Entrada no válida. Por favor, ingrese un número válido.");   // Muestra erros si las entradas no son válidas
+            }
         }
     }
 }

@@ -4,7 +4,7 @@ class Program  // Clase
 {
     static void Main()   // Método principal para ejecutar el programa
     {
-        // Alvarez_David      3ero TSDS
+        // Alvarez_David_Ejercicio_1      3ero TSDS
 
         // Ejercicio 1
 
