@@ -1,0 +1,28 @@
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Tarea 01/Alvarez_David_Ejercicio_1/bin/Debug/net8.0/Alvarez_David_Ejercicio_1
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Tarea 01/Alvarez_David_Ejercicio_1/bin/Debug/net8.0/Alvarez_David_Ejercicio_1.deps.json
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Tarea 01/Alvarez_David_Ejercicio_1/bin/Debug/net8.0/Alvarez_David_Ejercicio_1.runtimeconfig.json
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Tarea 01/Alvarez_David_Ejercicio_1/bin/Debug/net8.0/Alvarez_David_Ejercicio_1.dll
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Tarea 01/Alvarez_David_Ejercicio_1/bin/Debug/net8.0/Alvarez_David_Ejercicio_1.pdb
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Tarea 01/Alvarez_David_Ejercicio_1/obj/Debug/net8.0/Alvarez_David_Ejercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Tarea 01/Alvarez_David_Ejercicio_1/obj/Debug/net8.0/Alvarez_David_Ejercicio_1.AssemblyInfoInputs.cache
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Tarea 01/Alvarez_David_Ejercicio_1/obj/Debug/net8.0/Alvarez_David_Ejercicio_1.AssemblyInfo.cs
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Tarea 01/Alvarez_David_Ejercicio_1/obj/Debug/net8.0/Alvarez_David_Ejercicio_1.csproj.CoreCompileInputs.cache
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Tarea 01/Alvarez_David_Ejercicio_1/obj/Debug/net8.0/Alvarez_David_Ejercicio_1.dll
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Tarea 01/Alvarez_David_Ejercicio_1/obj/Debug/net8.0/refint/Alvarez_David_Ejercicio_1.dll
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Tarea 01/Alvarez_David_Ejercicio_1/obj/Debug/net8.0/Alvarez_David_Ejercicio_1.pdb
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Tarea 01/Alvarez_David_Ejercicio_1/obj/Debug/net8.0/Alvarez_David_Ejercicio_1.genruntimeconfig.cache
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Tarea 01/Alvarez_David_Ejercicio_1/obj/Debug/net8.0/ref/Alvarez_David_Ejercicio_1.dll
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Alvarez_David_Tarea_01/Alvarez_David_Ejercicio_1/bin/Debug/net8.0/Alvarez_David_Ejercicio_1
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Alvarez_David_Tarea_01/Alvarez_David_Ejercicio_1/bin/Debug/net8.0/Alvarez_David_Ejercicio_1.deps.json
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Alvarez_David_Tarea_01/Alvarez_David_Ejercicio_1/bin/Debug/net8.0/Alvarez_David_Ejercicio_1.runtimeconfig.json
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Alvarez_David_Tarea_01/Alvarez_David_Ejercicio_1/bin/Debug/net8.0/Alvarez_David_Ejercicio_1.dll
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Alvarez_David_Tarea_01/Alvarez_David_Ejercicio_1/bin/Debug/net8.0/Alvarez_David_Ejercicio_1.pdb
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Alvarez_David_Tarea_01/Alvarez_David_Ejercicio_1/obj/Debug/net8.0/Alvarez_David_Ejercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Alvarez_David_Tarea_01/Alvarez_David_Ejercicio_1/obj/Debug/net8.0/Alvarez_David_Ejercicio_1.AssemblyInfoInputs.cache
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Alvarez_David_Tarea_01/Alvarez_David_Ejercicio_1/obj/Debug/net8.0/Alvarez_David_Ejercicio_1.AssemblyInfo.cs
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Alvarez_David_Tarea_01/Alvarez_David_Ejercicio_1/obj/Debug/net8.0/Alvarez_David_Ejercicio_1.csproj.CoreCompileInputs.cache
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Alvarez_David_Tarea_01/Alvarez_David_Ejercicio_1/obj/Debug/net8.0/Alvarez_David_Ejercicio_1.dll
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Alvarez_David_Tarea_01/Alvarez_David_Ejercicio_1/obj/Debug/net8.0/refint/Alvarez_David_Ejercicio_1.dll
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Alvarez_David_Tarea_01/Alvarez_David_Ejercicio_1/obj/Debug/net8.0/Alvarez_David_Ejercicio_1.pdb
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Alvarez_David_Tarea_01/Alvarez_David_Ejercicio_1/obj/Debug/net8.0/Alvarez_David_Ejercicio_1.genruntimeconfig.cache
+/Users/COS/Documents/2024/d/PROGRAMACIOn/Alvarez_David_Tarea_01/Alvarez_David_Ejercicio_1/obj/Debug/net8.0/ref/Alvarez_David_Ejercicio_1.dll
