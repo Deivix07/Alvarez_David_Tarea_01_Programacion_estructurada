@@ -3,7 +3,7 @@
 class Program
     {static void Main() 
     {
-        // Alvarez_David_Ejercicio_2     3ero TSDS
+        // Alvarez_David_Ejercicio_2    3ero TSDS
         
         // Ejercicio 2
 

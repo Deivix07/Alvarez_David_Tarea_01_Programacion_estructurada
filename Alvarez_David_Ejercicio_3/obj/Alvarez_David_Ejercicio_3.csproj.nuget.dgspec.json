@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\David-ITECSUR\\TERCER SEMESTRE\\PROGRAMACION VISUAL Y ESTRUCTURADA\\TAREA 01\\Alvarez_David_Tarea_01_Programacion_estructurada\\Alvarez_David_Ejercicio_1\\Alvarez_David_Ejercicio_1.csproj": {}
+    "D:\\David-ITECSUR\\TERCER SEMESTRE\\PROGRAMACION VISUAL Y ESTRUCTURADA\\TAREA 01\\Alvarez_David_Tarea_01_Programacion_estructurada\\Alvarez_David_Ejercicio_3\\Alvarez_David_Ejercicio_3.csproj": {}
   },
   "projects": {
-    "D:\\David-ITECSUR\\TERCER SEMESTRE\\PROGRAMACION VISUAL Y ESTRUCTURADA\\TAREA 01\\Alvarez_David_Tarea_01_Programacion_estructurada\\Alvarez_David_Ejercicio_1\\Alvarez_David_Ejercicio_1.csproj": {
+    "D:\\David-ITECSUR\\TERCER SEMESTRE\\PROGRAMACION VISUAL Y ESTRUCTURADA\\TAREA 01\\Alvarez_David_Tarea_01_Programacion_estructurada\\Alvarez_David_Ejercicio_3\\Alvarez_David_Ejercicio_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\David-ITECSUR\\TERCER SEMESTRE\\PROGRAMACION VISUAL Y ESTRUCTURADA\\TAREA 01\\Alvarez_David_Tarea_01_Programacion_estructurada\\Alvarez_David_Ejercicio_1\\Alvarez_David_Ejercicio_1.csproj",
-        "projectName": "Alvarez_David_Ejercicio_1",
-        "projectPath": "D:\\David-ITECSUR\\TERCER SEMESTRE\\PROGRAMACION VISUAL Y ESTRUCTURADA\\TAREA 01\\Alvarez_David_Tarea_01_Programacion_estructurada\\Alvarez_David_Ejercicio_1\\Alvarez_David_Ejercicio_1.csproj",
+        "projectUniqueName": "D:\\David-ITECSUR\\TERCER SEMESTRE\\PROGRAMACION VISUAL Y ESTRUCTURADA\\TAREA 01\\Alvarez_David_Tarea_01_Programacion_estructurada\\Alvarez_David_Ejercicio_3\\Alvarez_David_Ejercicio_3.csproj",
+        "projectName": "Alvarez_David_Ejercicio_3",
+        "projectPath": "D:\\David-ITECSUR\\TERCER SEMESTRE\\PROGRAMACION VISUAL Y ESTRUCTURADA\\TAREA 01\\Alvarez_David_Tarea_01_Programacion_estructurada\\Alvarez_David_Ejercicio_3\\Alvarez_David_Ejercicio_3.csproj",
         "packagesPath": "C:\\Users\\YOLAN\\.nuget\\packages\\",
-        "outputPath": "D:\\David-ITECSUR\\TERCER SEMESTRE\\PROGRAMACION VISUAL Y ESTRUCTURADA\\TAREA 01\\Alvarez_David_Tarea_01_Programacion_estructurada\\Alvarez_David_Ejercicio_1\\obj\\",
+        "outputPath": "D:\\David-ITECSUR\\TERCER SEMESTRE\\PROGRAMACION VISUAL Y ESTRUCTURADA\\TAREA 01\\Alvarez_David_Tarea_01_Programacion_estructurada\\Alvarez_David_Ejercicio_3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -47,8 +47,8 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",

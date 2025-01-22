@@ -13,3 +13,18 @@
 /Users/COS/Documents/2024/d/PROGRAMACIOn/Alvarez_David_Tarea_01/Alvarez_David_Ejercicio_2/obj/Debug/net8.0/Alvarez_David_Ejercicio_2.pdb
 /Users/COS/Documents/2024/d/PROGRAMACIOn/Alvarez_David_Tarea_01/Alvarez_David_Ejercicio_2/obj/Debug/net8.0/Alvarez_David_Ejercicio_2.genruntimeconfig.cache
 /Users/COS/Documents/2024/d/PROGRAMACIOn/Alvarez_David_Tarea_01/Alvarez_David_Ejercicio_2/obj/Debug/net8.0/ref/Alvarez_David_Ejercicio_2.dll
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\TAREA 01\Alvarez_David_Tarea_01_Programacion_estructurada\Alvarez_David_Ejercicio_2\bin\Debug\net8.0\Alvarez_David_Ejercicio_2.exe
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\TAREA 01\Alvarez_David_Tarea_01_Programacion_estructurada\Alvarez_David_Ejercicio_2\bin\Debug\net8.0\Alvarez_David_Ejercicio_2.deps.json
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\TAREA 01\Alvarez_David_Tarea_01_Programacion_estructurada\Alvarez_David_Ejercicio_2\bin\Debug\net8.0\Alvarez_David_Ejercicio_2.runtimeconfig.json
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\TAREA 01\Alvarez_David_Tarea_01_Programacion_estructurada\Alvarez_David_Ejercicio_2\bin\Debug\net8.0\Alvarez_David_Ejercicio_2.dll
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\TAREA 01\Alvarez_David_Tarea_01_Programacion_estructurada\Alvarez_David_Ejercicio_2\bin\Debug\net8.0\Alvarez_David_Ejercicio_2.pdb
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\TAREA 01\Alvarez_David_Tarea_01_Programacion_estructurada\Alvarez_David_Ejercicio_2\obj\Debug\net8.0\Alvarez_David_Ejercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\TAREA 01\Alvarez_David_Tarea_01_Programacion_estructurada\Alvarez_David_Ejercicio_2\obj\Debug\net8.0\Alvarez_David_Ejercicio_2.AssemblyInfoInputs.cache
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\TAREA 01\Alvarez_David_Tarea_01_Programacion_estructurada\Alvarez_David_Ejercicio_2\obj\Debug\net8.0\Alvarez_David_Ejercicio_2.AssemblyInfo.cs
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\TAREA 01\Alvarez_David_Tarea_01_Programacion_estructurada\Alvarez_David_Ejercicio_2\obj\Debug\net8.0\Alvarez_David_Ejercicio_2.csproj.CoreCompileInputs.cache
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\TAREA 01\Alvarez_David_Tarea_01_Programacion_estructurada\Alvarez_David_Ejercicio_2\obj\Debug\net8.0\Alvarez_David_Ejercicio_2.sourcelink.json
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\TAREA 01\Alvarez_David_Tarea_01_Programacion_estructurada\Alvarez_David_Ejercicio_2\obj\Debug\net8.0\Alvarez_David_Ejercicio_2.dll
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\TAREA 01\Alvarez_David_Tarea_01_Programacion_estructurada\Alvarez_David_Ejercicio_2\obj\Debug\net8.0\refint\Alvarez_David_Ejercicio_2.dll
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\TAREA 01\Alvarez_David_Tarea_01_Programacion_estructurada\Alvarez_David_Ejercicio_2\obj\Debug\net8.0\Alvarez_David_Ejercicio_2.pdb
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\TAREA 01\Alvarez_David_Tarea_01_Programacion_estructurada\Alvarez_David_Ejercicio_2\obj\Debug\net8.0\Alvarez_David_Ejercicio_2.genruntimeconfig.cache
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\TAREA 01\Alvarez_David_Tarea_01_Programacion_estructurada\Alvarez_David_Ejercicio_2\obj\Debug\net8.0\ref\Alvarez_David_Ejercicio_2.dll
